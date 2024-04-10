@@ -1,0 +1,7 @@
+pymysql
+flask
+redis
+fastapi
+pydantic
+SQLAlchemy
+mysql
